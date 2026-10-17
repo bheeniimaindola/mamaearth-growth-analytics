@@ -1,0 +1,8 @@
+### Situation
+Mamaearth's growth pipeline processed a cleaned total revenue of ₹97,358.30 across our active customer orders, establishing a solid baseline for regional operations and financial planning after careful data reconciliation.
+
+### Complication
+Returns are disproportionately eroding profit margins, led primarily by Cash on Delivery (COD) orders which suffer a severe 44.4% return rate. Specifically, Tier-2 cities combined with COD represent our highest-risk operational segment at a staggering 54.5% return rate. Furthermore, raw database figures initially obscured true trends due to duplicate submissions accounting for a ₹2,501.90 reconciliation delta and bulk orders inflating January revenue.
+
+### Resolution
+To protect operating margins, regional ops and finance must immediately restrict high-risk COD incentives in Tier-2 regions, enforce stricter payment validation, and rely on outlier-corrected analytics that identify March (2026-03) as our true revenue peak at ₹20,318.90.
