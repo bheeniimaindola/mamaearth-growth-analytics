@@ -1,0 +1,9 @@
+-- sql/seed_data.sql
+-- Note: As permitted by the project requirements, data loading and SQLite import 
+-- are automated and re-runnable via the Python loader script:
+-- python sql/load_db.py
+-- 
+-- This script reads directly from:
+-- - data/customers.csv (45 rows)
+-- - data/products.csv (16 rows)
+-- - data/orders.csv (180 rows, with blank cells cleaned to SQL NULL)
